@@ -1,0 +1,16 @@
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\bin\Debug\netcoreapp2.1\PaymentProcessor.deps.json
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\bin\Debug\netcoreapp2.1\PaymentProcessor.runtimeconfig.json
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\bin\Debug\netcoreapp2.1\PaymentProcessor.runtimeconfig.dev.json
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\bin\Debug\netcoreapp2.1\PaymentProcessor.dll
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\bin\Debug\netcoreapp2.1\PaymentProcessor.pdb
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\obj\Debug\netcoreapp2.1\PaymentProcessor.RazorAssemblyInfo.cache
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\obj\Debug\netcoreapp2.1\PaymentProcessor.RazorAssemblyInfo.cs
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\obj\Debug\netcoreapp2.1\PaymentProcessor.AssemblyInfoInputs.cache
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\obj\Debug\netcoreapp2.1\PaymentProcessor.AssemblyInfo.cs
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\obj\Debug\netcoreapp2.1\PaymentProcessor.RazorTargetAssemblyInfo.cache
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\obj\Debug\netcoreapp2.1\PaymentProcessor.dll
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\obj\Debug\netcoreapp2.1\PaymentProcessor.pdb
+C:\Users\Ardeyu\Source\Repos\ef-core-web-api\PaymentProcessor\PaymentProcessor\obj\Debug\netcoreapp2.1\PaymentProcessor.csprojAssemblyReference.cache
